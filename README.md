@@ -37,3 +37,8 @@ Centralize management of security, configurations, and policies in a domain. App
 *Ref 5: Editing Password Policy*
 
 ![image](https://github.com/user-attachments/assets/f8f292e6-1478-4ba3-b0ca-884a852763f5)
+
+*Ref 6: Password Policy->Windows Settings->Security Settings->Account Policies->Password Policy*
+
+![image](https://github.com/user-attachments/assets/ed95ef05-5949-4f8b-88a9-a837d7b5e604)
+
