@@ -2,13 +2,13 @@
 
 ## Objective
   
-Applying Group Policy Object (GPO) to computers and users
-Policies and Preferences
+Applying Group Policy Object (GPO) to computers and users configuration
 
 ### Skills Learned
 
-_
 - 
+-
+-
 
 ### Tools Used
 
@@ -24,4 +24,8 @@ _
 *Ref 2: Editing Default Domain Controller as an example*
 
 ![image](https://github.com/user-attachments/assets/1ddd7b9b-9044-405c-867f-95cfdb2206e5)
+
+*Ref 3: Hands-on Activity #1*
+
+![image](https://github.com/user-attachments/assets/c066861b-a202-419e-95bb-e490ca2d6788)
 
