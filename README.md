@@ -2,14 +2,14 @@
 
 ## Objective
   
-Centralize management of security, configurations, and policies in a domain. Apply best practices.
+Centralize management of security, configurations, and policies in a domain. Appling best practices.
 
 ### Skills Learned
 
 - Creating, editing, and managing GPOs
-- Enforcing password policies, login scripts, and desktop environments
+- Enforcing password policies and desktop environments
 - Configuring software installations and restrictions
-- Applying drive mappings and network printer policies
+- Applying drive mappings
 
 ### Tools Used
 
