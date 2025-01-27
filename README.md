@@ -16,6 +16,7 @@ _
 
 ## Steps
 
-*Ref 1: Network Diagram*
+*Ref 1: Searching for Group Policy Management on Windows Server 2022*
 
-paste or drag snapshot of the project here (remove after finished)
+![image](https://github.com/user-attachments/assets/f8f6bf50-40e6-4a42-9dfd-aa8f349af16d)
+
