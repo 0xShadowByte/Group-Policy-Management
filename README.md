@@ -25,7 +25,8 @@ How to apply Group Policy Object (GPO) to computers and users configuration and 
 
 ![image](https://github.com/user-attachments/assets/1ddd7b9b-9044-405c-867f-95cfdb2206e5)
 
-*Ref 3: Hands-on Activity #1*
+*Ref 3: Hands-on Activity #1 Creating Password Policy*
 
-![image](https://github.com/user-attachments/assets/c066861b-a202-419e-95bb-e490ca2d6788)
+![image](https://github.com/user-attachments/assets/2e7ff352-4f12-4188-b205-88c6c0e0f4d0)
+
 
