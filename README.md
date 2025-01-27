@@ -104,4 +104,5 @@ Centralize management of security, configurations, and policies in a domain. App
 
 *Ref 22: Account Lockout Policy->Computer Config->Polices->Windows Settings->Security Settings->Account Policies*
 
-![image](https://github.com/user-attachments/assets/12bd0304-0c2b-4974-8854-f7a1b7bf2a68)
+![image](https://github.com/user-attachments/assets/145672b4-236a-45b3-8ad0-7a5fe8dbc41b)
+
