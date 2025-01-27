@@ -69,3 +69,39 @@ Centralize management of security, configurations, and policies in a domain. App
 *Ref 13: "Location: \\servername\folder; Drive Letter: E"
 
 ![image](https://github.com/user-attachments/assets/280c006a-80c6-4998-b95c-0b1d9f42c7e8)
+
+*Ref 14: Desktop Wallpaper Policy*
+
+![image](https://github.com/user-attachments/assets/d5fc1610-4c88-48e8-b714-bd8ae753ae9f)
+
+*Ref 15: Creating a new GPO for Desktop Wallpaper Policy*
+
+![image](https://github.com/user-attachments/assets/feffd91d-945a-45c7-9add-de32245ecbd4)
+
+*Ref 16: Enabling Desktop Wallpaper Policy*
+
+![image](https://github.com/user-attachments/assets/f538758f-4f0f-49bc-8a4f-082973c013a1)
+
+*Ref 17: Hands-On Activty #4 Restrict Access to Control Panel*
+
+![image](https://github.com/user-attachments/assets/9fbad4e7-a120-4c7e-b205-a481b6d10738)
+
+*Ref 18: User config->Polices->Admin Templet->Control Panel->Prohibt Access to Control Panel and PC settings*
+
+![image](https://github.com/user-attachments/assets/8e6e8194-0312-48f4-b464-8c68906aa4ae)
+
+*Ref 19: Hands-On Activity #5 Disable USB Storage*
+
+![image](https://github.com/user-attachments/assets/e821f573-c788-4f48-b7c1-c5c336e23aa3)
+
+*Ref 20: Computer Config->Policies->Admin Templete->System->Removable Storage Devices*
+
+![image](https://github.com/user-attachments/assets/0f5ed2fc-a13a-4d0e-8abe-714a55e78a86)
+
+*Ref 21: Account Lockout Policy*
+
+![image](https://github.com/user-attachments/assets/b710816d-bdce-4dcb-a95e-a526e5756bfb)
+
+*Ref 22: Account Lockout Policy->Computer Config->Polices->Windows Settings->Security Settings->Account Policies*
+
+![image](https://github.com/user-attachments/assets/12bd0304-0c2b-4974-8854-f7a1b7bf2a68)
