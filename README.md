@@ -2,16 +2,17 @@
 
 ## Objective
   
-Group Policy Management (place holder
+Applying Group Policy Object (GPO) to computers and users
 
 ### Skills Learned
 
--
+_
 - 
 
 ### Tools Used
 
-- 
+- VMware Workstation Pro
+- Windows Server 2022
 
 ## Steps
 
