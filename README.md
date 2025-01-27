@@ -2,7 +2,7 @@
 
 ## Objective
   
-Applying Group Policy Object (GPO) to computers and users configuration
+How to apply Group Policy Object (GPO) to computers and users configuration and best practices
 
 ### Skills Learned
 
