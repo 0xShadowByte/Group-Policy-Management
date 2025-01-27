@@ -65,3 +65,7 @@ Centralize management of security, configurations, and policies in a domain. App
 *Ref 12: User Configuration->Preference->Windows Settings->Drive Maps
 
 ![image](https://github.com/user-attachments/assets/d7e32bf1-5bd2-46f7-a56c-87d3206b8737)
+
+*Ref 13: "Location: \\servername\folder; Drive Letter: E"
+
+![image](https://github.com/user-attachments/assets/280c006a-80c6-4998-b95c-0b1d9f42c7e8)
