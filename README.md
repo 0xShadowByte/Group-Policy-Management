@@ -3,6 +3,7 @@
 ## Objective
   
 Applying Group Policy Object (GPO) to computers and users
+Policies and Preferences
 
 ### Skills Learned
 
