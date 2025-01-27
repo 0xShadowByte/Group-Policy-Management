@@ -29,4 +29,6 @@ How to apply Group Policy Object (GPO) to computers and users configuration and 
 
 ![image](https://github.com/user-attachments/assets/2e7ff352-4f12-4188-b205-88c6c0e0f4d0)
 
+*Ref 4: "Password Policy" folder under "Group Policy Groups"
 
+![image](https://github.com/user-attachments/assets/4b8112a1-dd7f-48cd-b84a-d62b189d0c0b)
