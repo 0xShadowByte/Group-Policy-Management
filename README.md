@@ -2,13 +2,14 @@
 
 ## Objective
   
-How to apply Group Policy Object (GPO) to computers and users configuration and best practices
+Centralize management of security, configurations, and policies in a domain. Apply best practices.
 
 ### Skills Learned
 
-- 
--
--
+- Creating, editing, and managing GPOs
+- Enforcing password policies, login scripts, and desktop environments
+- Configuring software installations and restrictions
+- Applying drive mappings and network printer policies
 
 ### Tools Used
 
