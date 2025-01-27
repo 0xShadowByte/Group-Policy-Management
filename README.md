@@ -42,3 +42,8 @@ Centralize management of security, configurations, and policies in a domain. App
 
 ![image](https://github.com/user-attachments/assets/ed95ef05-5949-4f8b-88a9-a837d7b5e604)
 
+*Reft 7: Changing the minimum password length policy*
+
+![image](https://github.com/user-attachments/assets/9e1e735c-035d-4fbd-9da2-90e8a2eb002c)
+
+
