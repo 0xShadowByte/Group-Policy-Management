@@ -42,8 +42,26 @@ Centralize management of security, configurations, and policies in a domain. App
 
 ![image](https://github.com/user-attachments/assets/ed95ef05-5949-4f8b-88a9-a837d7b5e604)
 
-*Reft 7: Changing the minimum password length policy*
+*Ref 7: Changing the minimum password length policy*
 
 ![image](https://github.com/user-attachments/assets/9e1e735c-035d-4fbd-9da2-90e8a2eb002c)
 
+*Ref 8: Changing and enabling the complexity requirements for password*
 
+![image](https://github.com/user-attachments/assets/e036f6cf-2d1d-4d8b-9f4c-ab9b0b385947)
+
+*Ref 9: Changing the maximum password age
+
+![image](https://github.com/user-attachments/assets/ad3948de-481b-4bec-bc98-399a6da6e780)
+
+*Ref 10: Hands-on Activty #2 Drive Mapping*
+
+![image](https://github.com/user-attachments/assets/f31d0470-e0be-45cb-97fb-b89f78bd3536)
+
+*Ref 11: Creating new GPO in domain: Drive Mapping*
+
+![image](https://github.com/user-attachments/assets/30034eae-a297-4a31-b482-d381d8b71a62)
+
+*Ref 12: User Configuration->Preference->Windows Settings->Drive Maps
+
+![image](https://github.com/user-attachments/assets/d7e32bf1-5bd2-46f7-a56c-87d3206b8737)
