@@ -123,3 +123,17 @@ Centralize management of security, configurations, and policies in a domain. App
 
 ![image](https://github.com/user-attachments/assets/bb1c0128-a31b-467e-829e-8f0dcc847982)
 
+*Ref 4: Setting up Static IP on Windows Server*
+
+![image](https://github.com/user-attachments/assets/cde1b386-fb65-442e-baed-2e3922a6e542)
+
+*Ref 5: Pinging the server IP address*
+
+![image](https://github.com/user-attachments/assets/28e88ba9-41c0-43c3-8c5e-8bf2afb06843)
+
+*Ref 6: Adding client computer to domain*
+
+![image](https://github.com/user-attachments/assets/0954a676-d474-45ec-95ef-7ef8bd63c52f)
+
+
+
