@@ -119,3 +119,7 @@ Centralize management of security, configurations, and policies in a domain. App
 
 ![image](https://github.com/user-attachments/assets/7f79a78f-0f0a-45f5-aae7-8d4f556b8c3b)
 
+*Ref 3: Windows 10 Enterprise being installed on VMware Workstation*
+
+![image](https://github.com/user-attachments/assets/bb1c0128-a31b-467e-829e-8f0dcc847982)
+
