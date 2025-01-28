@@ -133,7 +133,8 @@ Centralize management of security, configurations, and policies in a domain. App
 
 *Ref 6: Adding client computer to domain*
 
-![image](https://github.com/user-attachments/assets/3af2533b-cab0-47d4-865e-b5410828df61)
+![image](https://github.com/user-attachments/assets/f402de2d-2173-4ae7-8e1a-396e8f6e7b1e)
+
 
 
 
