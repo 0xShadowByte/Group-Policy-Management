@@ -18,6 +18,8 @@ Centralize management of security, configurations, and policies in a domain. App
 
 ## Steps
 
+### Creating and Setting Up Group Policy Management
+
 *Ref 1: Searching for Group Policy Management on Windows Server 2022*
 
 ![image](https://github.com/user-attachments/assets/f8f6bf50-40e6-4a42-9dfd-aa8f349af16d)
@@ -105,4 +107,14 @@ Centralize management of security, configurations, and policies in a domain. App
 *Ref 22: Account Lockout Policy->Computer Config->Polices->Windows Settings->Security Settings->Account Policies*
 
 ![image](https://github.com/user-attachments/assets/145672b4-236a-45b3-8ad0-7a5fe8dbc41b)
+
+### Applying and testing Group Policy Management
+
+*Ref 1: Installing Windows 10 Enterprise ISO to use on VM to join Computer Domain*
+
+![image](https://github.com/user-attachments/assets/b15b9c53-db35-4619-89ff-59ce84d66c23)
+
+*Ref 2: Setting up Window 10 Enterprise on VM*
+
+![image](https://github.com/user-attachments/assets/7f79a78f-0f0a-45f5-aae7-8d4f556b8c3b)
 
