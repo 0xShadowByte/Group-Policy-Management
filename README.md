@@ -139,9 +139,11 @@ Centralize management of security, configurations, and policies in a domain. App
 
 ### Implementing and testing Group Policy Managements (GPOs)
 
-*Ref 1: Applying "Restrict Control Panel" GPO to Users under USA*
+*Ref 1: Applying GPOs to Users under USA*
 
-![image](https://github.com/user-attachments/assets/610e9a30-7869-4efd-a906-35bccfc14d7f)
+![image](https://github.com/user-attachments/assets/bb812ad8-e57e-4dd2-a4dd-770389567a1d)
 
+*Ref 2: Checking if "Restrict Control Panel" GPO is implemented correctly on client's computer*
 
+![image](https://github.com/user-attachments/assets/58490104-6f9f-444d-b435-40465b18e86f)
 
