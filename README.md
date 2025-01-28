@@ -15,6 +15,7 @@ Centralize management of security, configurations, and policies in a domain. App
 
 - VMware Workstation Pro
 - Windows Server 2022
+- Windows 10 Enterprise
 
 ## Steps
 
