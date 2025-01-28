@@ -109,33 +109,39 @@ Centralize management of security, configurations, and policies in a domain. App
 
 ![image](https://github.com/user-attachments/assets/145672b4-236a-45b3-8ad0-7a5fe8dbc41b)
 
-### Applying and testing Group Policy Management
-
-*Ref 1: Installing Windows 10 Enterprise ISO to use on VM to join Computer Domain*
+*Ref 23: Installing Windows 10 Enterprise ISO to use on VM to join Computer Domain*
 
 ![image](https://github.com/user-attachments/assets/b15b9c53-db35-4619-89ff-59ce84d66c23)
 
-*Ref 2: Setting up Window 10 Enterprise on VM*
+*Ref 24: Setting up Window 10 Enterprise on VM*
 
 ![image](https://github.com/user-attachments/assets/7f79a78f-0f0a-45f5-aae7-8d4f556b8c3b)
 
-*Ref 3: Windows 10 Enterprise being installed on VMware Workstation*
+*Ref 25: Windows 10 Enterprise being installed on VMware Workstation*
 
 ![image](https://github.com/user-attachments/assets/bb1c0128-a31b-467e-829e-8f0dcc847982)
 
-*Ref 4: Setting up Static IP on Windows Server*
+*Ref 26: Setting up Static IP on Windows Server*
 
 ![image](https://github.com/user-attachments/assets/cde1b386-fb65-442e-baed-2e3922a6e542)
 
-*Ref 5: Pinging the server IP address*
+*Ref 27: Pinging the server IP address*
 
 ![image](https://github.com/user-attachments/assets/28e88ba9-41c0-43c3-8c5e-8bf2afb06843)
 
-*Ref 6: Adding client computer to domain*
+*Ref 28: Adding client computer to domain*
 
 ![image](https://github.com/user-attachments/assets/f402de2d-2173-4ae7-8e1a-396e8f6e7b1e)
 
+*Ref 29: Enter Admin credentials and successfully joined 0xShadowByte Domain*
 
+![image](https://github.com/user-attachments/assets/0cdea44a-2e5b-4c71-bae3-cddd63e2057d)
+
+###Implementing and testing Group Policy Managements (GPOs)*
+
+*Ref 1: Applying "Restrict Control Panel" GPO to Users under USA*
+
+![image](https://github.com/user-attachments/assets/610e9a30-7869-4efd-a906-35bccfc14d7f)
 
 
 
