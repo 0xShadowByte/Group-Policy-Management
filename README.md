@@ -130,6 +130,7 @@ Centralize management of security, configurations, and policies in a domain. App
 ![image](https://github.com/user-attachments/assets/28e88ba9-41c0-43c3-8c5e-8bf2afb06843)
 
 *Ref 28: Adding client computer to domain*
+The admin/pass didn't show up at first so I had to close out the window and redo the process
 
 ![image](https://github.com/user-attachments/assets/f402de2d-2173-4ae7-8e1a-396e8f6e7b1e)
 
@@ -146,4 +147,16 @@ Centralize management of security, configurations, and policies in a domain. App
 *Ref 2: Checking if "Restrict Control Panel" GPO is implemented correctly on client's computer*
 
 ![image](https://github.com/user-attachments/assets/58490104-6f9f-444d-b435-40465b18e86f)
+
+*Ref 3 : Troubleshooting the GPOs if they weren't enable correctly by using forcing group update (gpupdate /force)*
+
+![image](https://github.com/user-attachments/assets/d839b058-dfa3-4316-8fa6-4fdd59677552)
+
+*Ref 4: Emplement time-based login policy on an account between 5pm-9pm*
+
+![image](https://github.com/user-attachments/assets/a0461c34-f3c0-4c20-86e2-650f817c2820)
+
+*Ref 5: Time-based login policy correctly enabled*
+
+![image](https://github.com/user-attachments/assets/345763d4-adf5-407a-a5a7-0d9e09091000)
 
