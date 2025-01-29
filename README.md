@@ -7,9 +7,11 @@ Centralize management of security, configurations, and policies in a domain. App
 ### Skills Learned
 
 - Creating, editing, and managing GPOs
-- Enforcing password policies and desktop environments
-- Configuring software installations and restrictions
-- Applying drive mappings
+- Setting up a password policy to enforce strong passwords and enhance security
+- Map network drives for users when they log in
+- Set up a default desktop wallpaper for all users
+- Prevent users from accessing the control panel by restricting their access
+- Prevent users from using USB storage devices by disabling USB storage
 
 ### Tools Used
 
